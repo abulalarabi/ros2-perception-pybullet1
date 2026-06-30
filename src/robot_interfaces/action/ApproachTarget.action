@@ -1,0 +1,13 @@
+# Goal
+float64 stop_distance
+float64 maximum_speed
+---
+# Result
+bool success
+float64 final_distance
+string message
+---
+# Feedback
+string current_state
+float64 target_distance
+float64 heading_error

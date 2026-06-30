@@ -1,0 +1,6 @@
+uint8 MANUAL=0
+uint8 AUTONOMOUS=1
+uint8 PAUSED=2
+uint8 EMERGENCY_STOP=3
+
+uint8 mode
